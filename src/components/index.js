@@ -26,6 +26,7 @@ require('./raycaster');
 require('./rotation');
 require('./scale');
 require('./shadow');
+require('./semantics');
 require('./sound');
 require('./text');
 require('./tracked-controls');
